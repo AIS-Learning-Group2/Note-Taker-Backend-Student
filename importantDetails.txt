@@ -1,0 +1,30 @@
+XtwLxkjS9PK3Pu8c
+
+sachiw2000
+
+
+
+mongodb+srv://sachiw2000:XtwLxkjS9PK3Pu8c@cluster0.v080xh4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+
+{
+    "title":"My First Note",
+    "body":"Hi, I'm Sachintha Weerasinghe. This is my first note.."
+
+}
+
+
+
+{
+    "email":"sachiw2000@gmail.com",
+    "password":"123abc"
+
+}
+
+
+{
+    "email":"aruna1999@gmail.com",
+    "password":"1234abcd"
+
+}
